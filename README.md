@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lalakali
-- 👀 I’m interested in ... rockets / satellites/ robots 
+- 👀 I’m interested in ... rockets / satellites/ robots/ accounting 
 - 🌱 I’m currently learning ... all things code, starting from the ground up
-- 💞️ I’m looking to collaborate on ... cool stuff
+- 💞️ I’m looking to collaborate on ... interesting projects
 - 📫 How to reach me ... here!
 
 <!---
